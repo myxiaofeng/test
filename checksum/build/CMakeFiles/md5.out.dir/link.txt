@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/md5.out.dir/filecomdeal.cpp.o CMakeFiles/md5.out.dir/main.cpp.o  -o md5.out checksum/libchecksum.a -lpthread -lmysqlclient account/libaccount.a 

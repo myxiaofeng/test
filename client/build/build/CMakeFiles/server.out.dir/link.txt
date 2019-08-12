@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/server.out.dir/command.cpp.o CMakeFiles/server.out.dir/common.cpp.o CMakeFiles/server.out.dir/main.cpp.o CMakeFiles/server.out.dir/server.cpp.o  -o server.out -lpthread 

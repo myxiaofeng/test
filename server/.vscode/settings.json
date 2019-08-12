@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "sstream": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "new": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/client.out.dir/bigfiledeal.cpp.o CMakeFiles/client.out.dir/client.cpp.o CMakeFiles/client.out.dir/common.cpp.o CMakeFiles/client.out.dir/main.cpp.o  -o client.out -lpthread 
